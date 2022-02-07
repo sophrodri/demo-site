@@ -1,11 +1,10 @@
+/* Assignment 1 Styles  */
+/* Hero Image  */
 .clean-block.clean-hero::before{
     background-image: url(/assets/img/assignment/homepage-hero.jpg);
     background-size: cover;
 }
-.btn-outline-light {
-    color: #f8f9fa;
-    border-color: #f8f9fa;
-  }
+/* Blog main image  */
   .post-image{
     background-image: url(/assets/img/assignment/blog-main.jpg);
     background-size: cover;
