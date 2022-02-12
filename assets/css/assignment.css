@@ -9,6 +9,35 @@
     background-image: url(/assets/img/assignment/blog-main.jpg);
     background-size: cover;
   }
+
 h3, h4{
     color:#cccccc;
 }
+
+body h1{
+  font-size: calc(24px + .5vw);
+  line-height: calc(1.1em + 0.5vw);}
+
+
+  body h2{
+    font-size: calc(22px + .5vw);
+    line-height: calc(1.1em + 0.5vw);
+  
+  }
+
+body h3{
+  font-size: calc(20px + .5vw);
+  line-height: calc(1.1em + 0.5vw);
+
+}
+
+body h4{
+  font-size: calc(16px + .5vw);
+  line-height: calc(1.1em + 0.5vw);
+}
+
+p{
+  font-size: calc(14px + .5vw);
+  line-height: calc(1.1em + 0.5vw);
+  }
+
