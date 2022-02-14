@@ -1,12 +1,12 @@
 /* Assignment 1 Styles  */
 /* Hero Image  */
 .clean-block.clean-hero::before{
-    background-image: url(https://sophrodri.github.io/demo-site/assets/img/assignment/homepage-hero.jpg);
+    background-image: url(../../assets/img/assignment/resize/homepage-hero-resize.jpg);
     background-size: cover;
 }
 /* Blog main image  */
   .post-image{
-    background-image: url(/assets/img/assignment/resize/blog-main-resize.jpg);
+    background-image: url(../../assets/img/assignment/resize/intro-img-resize.jpg);
     background-size: cover;
   }
 
