@@ -29,12 +29,13 @@ body h1{
 body h3{
   font-size: calc(20px + .5vw);
   line-height: calc(1.1em + 0.5vw);
-
+color: black;
 }
 
 body h4{
   font-size: calc(16px + .5vw);
   line-height: calc(1.1em + 0.5vw);
+  color: black;;
 }
 
 p{
