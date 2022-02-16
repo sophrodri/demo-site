@@ -7,11 +7,12 @@
 /* Blog main image  */
   .post-image{
     background-image: url(../../assets/img/assignment/resize/intro-img-resize.jpg);
+
     background-size: cover;
   }
 
 h3, h4{
-    color:#cccccc;
+    color: black;
 }
 
 body h1{
